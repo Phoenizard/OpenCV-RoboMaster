@@ -1,0 +1,3 @@
+/home/shay/Workspace/LightBound/cmake-build-debug/CMakeFiles/LightBound.dir
+/home/shay/Workspace/LightBound/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shay/Workspace/LightBound/cmake-build-debug/CMakeFiles/rebuild_cache.dir

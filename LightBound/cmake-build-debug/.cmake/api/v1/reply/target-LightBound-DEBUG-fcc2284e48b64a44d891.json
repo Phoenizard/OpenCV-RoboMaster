@@ -1,0 +1,739 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "LightBound"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"link_directories",
+			"target_link_libraries",
+			"add_compile_definitions",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 128,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 146,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 124,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 145,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -DPROJ_PATH=\"\\\"/home/shay/Workspace/LightBound\\\"\" -O2 -g -g"
+				},
+				{
+					"fragment" : "-std=gnu++14"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 19,
+					"define" : "DEBUG"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 20,
+					"path" : "/home/shay/Workspace/LightBound/src"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "/home/shay/Workspace/LightBound/include"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "/home/shay/Workspace/LightBound/../.git/include"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "/home/shay/Workspace/LightBound/../.idea/include"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "/home/shay/Workspace/LightBound/../AnalysisImage/include"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/home/shay/Workspace/LightBound/../Binary/include"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "/home/shay/Workspace/LightBound/../Brightness/include"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "/home/shay/Workspace/LightBound/../CMakeProjectTemplate-master/include"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "/home/shay/Workspace/LightBound/../ChannelSplit/include"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "/home/shay/Workspace/LightBound/../ComputerVisionQuestions/include"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "/home/shay/Workspace/LightBound/../Contrast/include"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "/home/shay/Workspace/LightBound/../DataSet/include"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "/home/shay/Workspace/LightBound/../DemoProject/include"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "/home/shay/Workspace/LightBound/../DisplayImage/include"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/home/shay/Workspace/LightBound/../ErodeandDilate/include"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "/home/shay/Workspace/LightBound/../FastestDet-main/include"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "/home/shay/Workspace/LightBound/../FindContours/include"
+				},
+				{
+					"backtrace" : 37,
+					"path" : "/home/shay/Workspace/LightBound/../LightBound/include"
+				},
+				{
+					"backtrace" : 38,
+					"isSystem" : true,
+					"path" : "/usr/include/opencv4"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "LightBound::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-DPROJ_PATH=\"\\\"/home/shay/Workspace/LightBound\\\"\" -O2 -g -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../.git/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../.idea/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../AnalysisImage/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../Binary/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../Brightness/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../CMakeProjectTemplate-master/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../ChannelSplit/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../ComputerVisionQuestions/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../Contrast/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../DataSet/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../DemoProject/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../DisplayImage/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../ErodeandDilate/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 15,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../FastestDet-main/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../FindContours/build",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "-L/home/shay/Workspace/LightBound/../LightBound/build",
+				"role" : "libraryPath"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/shay/Workspace/LightBound/../.git/build:/home/shay/Workspace/LightBound/../.idea/build:/home/shay/Workspace/LightBound/../AnalysisImage/build:/home/shay/Workspace/LightBound/../Binary/build:/home/shay/Workspace/LightBound/../Brightness/build:/home/shay/Workspace/LightBound/../CMakeProjectTemplate-master/build:/home/shay/Workspace/LightBound/../ChannelSplit/build:/home/shay/Workspace/LightBound/../ComputerVisionQuestions/build:/home/shay/Workspace/LightBound/../Contrast/build:/home/shay/Workspace/LightBound/../DataSet/build:/home/shay/Workspace/LightBound/../DemoProject/build:/home/shay/Workspace/LightBound/../DisplayImage/build:/home/shay/Workspace/LightBound/../ErodeandDilate/build:/home/shay/Workspace/LightBound/../FastestDet-main/build:/home/shay/Workspace/LightBound/../FindContours/build:/home/shay/Workspace/LightBound/../LightBound/build",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_stitching.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_aruco.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_bgsegm.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_bioinspired.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_ccalib.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_dnn_objdetect.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_dnn_superres.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_dpm.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_face.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_freetype.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_fuzzy.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_hdf.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_hfs.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_img_hash.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_line_descriptor.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_quality.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_reg.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_rgbd.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_saliency.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_shape.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_stereo.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_structured_light.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_superres.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_surface_matching.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_tracking.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_videostab.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_viz.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_xobjdetect.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_xphoto.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_highgui.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_datasets.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_plot.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_text.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_dnn.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_ml.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_phase_unwrapping.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_optflow.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_ximgproc.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_video.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_videoio.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_imgcodecs.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_objdetect.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_calib3d.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_features2d.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_flann.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_photo.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.4.2.0",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libopencv_core.so.4.2.0",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "LightBound",
+	"nameOnDisk" : "LightBound",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

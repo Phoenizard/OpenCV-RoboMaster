@@ -1,0 +1,30 @@
+/home/shay/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4167.35/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/shay/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4167.35/bin/ninja/linux/ninja -G Ninja -S /home/shay/Workspace/AnalysisImage -B /home/shay/Workspace/AnalysisImage/cmake-build-debug
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+
+[CONFIG]   Executable      true
+[CONFIG]   LIBRARY_TYPE      STATIC
+[CONFIG]   Debug           true
+[CONFIG]   Optimization    2
+[CONFIG]   Dependencies    
+[CONFIG]   Language Level  14
+
+[PACKAGE]  Threads         false
+[PACKAGE]  Eigen           false
+[PACKAGE]  OpenCV          true
+
+
+-- Found OpenCV: /usr (found suitable version "4.2.0", minimum required is "4") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/shay/Workspace/AnalysisImage/cmake-build-debug
